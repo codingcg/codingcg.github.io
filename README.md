@@ -1,1 +1,1 @@
-# codingcg.github.io
+# Informatik Projekte am Johnny ... eine Webseite
